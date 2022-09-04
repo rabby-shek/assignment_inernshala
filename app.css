@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(242, 242, 242);
+}
+
+#parent{
+    margin-top: 1%;
+    background-color: white;
+    min-height:250px ;
+    min-width: 400px;
+    width: 40%;
+    height: auto;
+    overflow:auto;
+}
+
+span{
+    font-size: 13px;
+    color: rgb(179, 198, 255);
+}
+
+label{
+    height: 70px;
+    width: 150px;
+}
+
+#div2{
+    margin-left: 30%;
+    padding-right: 40%;
+}
